@@ -3,4 +3,5 @@ BEM - 1 day
 SCSS, gulp - 2 days
 pug - 1 day
 bootstrap, nuxt.js - 2 days
-vue 2 - 
+responsiveness - 2  days
+images optimisation - 
